@@ -1,0 +1,11 @@
+node_modules/
+target/
+.env
+.env.*
+!.env.example
+.git/
+*.log
+err.txt
+out.txt
+*.zip
+dist/
